@@ -1,0 +1,471 @@
+{
+  "generated_at": "2026-10-04T06:43:03.385468+00:00",
+  "notice": "Raw discovery output only. Curate and verify before publication.",
+  "sources": {
+    "openai": "https://openai.com/news/rss.xml",
+    "google_ai": "https://blog.google/technology/ai/rss/",
+    "anthropic": "https://www.anthropic.com/news",
+    "microsoft_sitemap": "https://blogs.microsoft.com/post-sitemap3.xml",
+    "baidu_support": "https://cloud.baidu.com/support/news",
+    "tencent_sitemap": "https://www.tencent.com/post-sitemap.xml"
+  },
+  "errors": {},
+  "items": {
+    "openai": [
+      {
+        "source": "OpenAI",
+        "title": "A model guide for the GPT-6 family",
+        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "published_at": "Fri, 02 Oct 2026 16:15:00 GMT",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+        "published_at": "Fri, 02 Oct 2026 00:00:00 GMT",
+        "url": "https://openai.com/index/chatham-financial",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "The eternal complement",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+        "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+        "url": "https://openai.com/index/the-eternal-complement",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+        "published_at": "Thu, 01 Oct 2026 16:00:00 GMT",
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+        "published_at": "Thu, 01 Oct 2026 00:00:00 GMT",
+        "url": "https://openai.com/index/the-den-family-social",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+        "published_at": "Wed, 30 Sep 2026 10:30:00 GMT",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Helping small businesses put AI to work",
+        "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+        "published_at": "Wed, 30 Sep 2026 10:00:00 GMT",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "DevDay 2026 Recap",
+        "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+        "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+        "url": "https://openai.com/index/devday-2026-recap",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Introducing GPT-6.1 Sol",
+        "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+        "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Introducing dots",
+        "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+        "published_at": "Tue, 29 Sep 2026 00:00:00 GMT",
+        "url": "https://openai.com/index/introducing-dots",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "How we will do better for Australia",
+        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+        "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "OpenAI",
+        "title": "Towards safety cases for frontier AI training",
+        "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+        "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "source_tier": "first-party"
+      }
+    ],
+    "google_ai": [
+      {
+        "source": "Google AI",
+        "title": "The latest AI news we announced in September 2026",
+        "summary": "Here are Google’s latest AI updates from September 2026",
+        "published_at": "Fri, 02 Oct 2026 15:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "published_at": "Mon, 28 Sep 2026 19:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Google Beam expands with new regions, partners, and customers",
+        "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+        "published_at": "Wed, 23 Sep 2026 18:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "New experts join Google’s AI & Economy team",
+        "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+        "published_at": "Fri, 18 Sep 2026 14:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Co-creating the future of fashion with Google",
+        "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+        "published_at": "Fri, 18 Sep 2026 13:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Making global data easier to explore",
+        "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+        "published_at": "Thu, 17 Sep 2026 20:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "AI for Societal Impact",
+        "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Building AI to accelerate science and improve lives",
+        "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "AI for everyone in every language",
+        "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+        "published_at": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+        "published_at": "Tue, 15 Sep 2026 13:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+        "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+        "published_at": "Mon, 14 Sep 2026 19:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Google AI",
+        "title": "DevFest is back",
+        "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+        "published_at": "Mon, 14 Sep 2026 16:00:00 +0000",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+        "source_tier": "first-party"
+      }
+    ],
+    "anthropic": [
+      {
+        "source": "anthropic",
+        "title": "Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+        "published_at": "Oct 2, 2026",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Barclays scales Claude to upgrade operations and improve client experience",
+        "published_at": "Oct 1, 2026",
+        "url": "https://www.anthropic.com/news/barclays-scales-claude",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "published_at": "Sep 23, 2026",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Partnering with Accenture on embedded evaluation",
+        "published_at": "Sep 18, 2026",
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Introducing the Life Sciences Verification Program",
+        "published_at": "Sep 17, 2026",
+        "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Developing Enterprise Frontier Safeguards with our customers",
+        "published_at": "Sep 1, 2026",
+        "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Improving our alignment and security efforts",
+        "published_at": "Aug 31, 2026",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Previewing the Model Hardware Standard",
+        "published_at": "Aug 27, 2026",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Expanding our support for scientists",
+        "published_at": "Aug 27, 2026",
+        "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "anthropic",
+        "title": "Announcements Funding better evaluations of AI’s impact on wellbeing",
+        "published_at": "Aug 25, 2026",
+        "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+        "source_tier": "first-party"
+      }
+    ],
+    "microsoft_sitemap": [
+      {
+        "source": "Microsoft",
+        "title": "introducing the new copilot with home code and autopilot",
+        "published_at": "2026-10-02T22:21:00+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "microsoft 365 and linkedin leadership update",
+        "published_at": "2026-10-01T15:03:27+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "new microsoft data innovations unlock what only your business knows",
+        "published_at": "2026-09-29T21:27:00+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "microsofts commitment for ai in education",
+        "published_at": "2026-09-18T15:39:13+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "what weve learned from microsofts own ai transformation",
+        "published_at": "2026-09-17T15:01:38+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "the yield imperative turning ai infrastructure into useful intelligence",
+        "published_at": "2026-09-02T06:18:17+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "rethinking security for the age of ai",
+        "published_at": "2026-08-13T21:39:21+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "looking back on microsofts fy26 from ai experimentation to frontier transformation",
+        "published_at": "2026-07-28T16:00:10+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "powering americas genesis mission microsofts commitment to scientific discovery",
+        "published_at": "2026-07-22T12:00:06+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "microsoft expands azure ai and hpc infrastructure with amd",
+        "published_at": "2026-07-20T13:01:57+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "the latest in our company transformation",
+        "published_at": "2026-07-06T19:01:55+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "microsoft frontier company ai engineering that amplifies and protects your intelligence",
+        "published_at": "2026-07-02T19:29:30+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "asha sharma named evp and ceo microsoft gaming",
+        "published_at": "2026-06-29T22:03:58+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "inside microsofts two decade push to cut water intensity while scaling for growth",
+        "published_at": "2026-06-24T18:05:45+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Microsoft",
+        "title": "rethinking cloud operations with agentic observability",
+        "published_at": "2026-06-23T15:59:05+00:00",
+        "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
+        "source_tier": "first-party"
+      }
+    ],
+    "baidu_support": [
+      {
+        "source": "baidu",
+        "title": "【降价通知】低至0.03元/页！文档解析全面焕新",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3286",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【公测】端到端语音语言大模型Flex全新上线：让语音交互\"能听懂，能办事\"",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3285",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【开放公测】「文档矫正增强V2」「文档去手写V2」全新升级！",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3284",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【商用】「PP-OCRv6」火热开售！低至0.009元/次",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3283",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【公告】文字识别部分接口服务停止升级更新及下线通知",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3282",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【商用】「通用卡证票据识别」火热开售！低至0.04元/次",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3281",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【新品上线】AI语音会议纪要总结能力入驻DuMate，助力高效会议办公",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3280",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "baidu",
+        "title": "【重磅上线】 AI 开放能力支持千帆 Token 福利包积分抵扣",
+        "published_at": "",
+        "url": "https://cloud.baidu.com/support/news?action=detail&id=3279",
+        "source_tier": "first-party"
+      }
+    ],
+    "tencent_sitemap": [
+      {
+        "source": "Tencent",
+        "title": "all news",
+        "published_at": "2026-09-28T09:49:30+00:00",
+        "url": "https://www.tencent.com/newsroom/all-news/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Tencent",
+        "title": "all news",
+        "published_at": "2026-09-28T09:49:30+00:00",
+        "url": "https://www.tencent.com/zh-cn/newsroom/all-news/",
+        "source_tier": "first-party"
+      },
+      {
+        "source": "Tencent",
+        "title": "all news",
+        "published_at": "2026-09-28T09:49:30+00:00",
+        "url": "https://www.tencent.com/zh-hk/newsroom/all-news/",
+        "source_tier": "first-party"
+      }
+    ]
+  }
+}
