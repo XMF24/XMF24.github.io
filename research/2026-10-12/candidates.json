@@ -1,0 +1,386 @@
+{
+  "generated_at": "2026-10-12T02:44:26.228186+00:00",
+  "lookback_days": 30,
+  "notice": "Unverified discovery output. Open original sources and create research/verified.json before publishing.",
+  "sources": {
+    "openai": "https://openai.com/news/rss.xml",
+    "google_ai": "https://blog.google/technology/ai/rss/",
+    "anthropic": "https://www.anthropic.com/news",
+    "microsoft": "https://blogs.microsoft.com/post-sitemap3.xml",
+    "baidu": "https://cloud.baidu.com/support/news",
+    "tencent": "https://www.tencent.com/post-sitemap.xml"
+  },
+  "errors": {},
+  "counts": {
+    "openai": 12,
+    "google_ai": 12,
+    "anthropic": 10,
+    "microsoft": 12,
+    "baidu": 10,
+    "tencent": 12
+  },
+  "items": [
+    {
+      "source": "百度智能云",
+      "title": "【公告】图像技术部分接口服务停止升级更新及下线通知",
+      "summary": "",
+      "published_at": "2026-10-09T08:27:32+00:00",
+      "published_label": "2026-10-09 08:27",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3287",
+      "source_tier": "first-party",
+      "content_excerpt": "尊敬的百度 AI 开放平台用户： 感谢您对图像技术产品服务的关注与支持，为了更高效地整合服务资源，部分接口服务将停止升级更新，并陆续下线。 即日起 车辆属性识别、车辆外观损伤识别、自定义图像风格、图像去噪、货币识别 5个接口服务不再升级维护，并将于 2026年11月10日 停止服务。 同时， AI修图 接口服务停止更新，自 2026年10月9日 起不再支持新用户开通接入。 为避免影响您的线上业务，请提前进行业务迁移。图像识别类产品可以选择使用 看图识万物 产品，看图识万物产品支持多主体图像识别及问答，您可登录 图像识别控制台 进行试用和体验。 感谢您的理解与支持！如需帮助可 提交工单 联系我们。由此给您带来的不便，敬请谅解！ 以下为相关接口文档： AI修图： https://ai.baidu.com/ai-doc/IMAGEPROCESS/3mp3t14aw 车辆属性识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Llw8w6qln 车辆外观损伤识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/olw8w9pjw 自定义图像风格： https://ai.baidu.com/ai-doc/IMAGEPROCESS/al50vf6bq 图像去噪： https://ai.baidu.com/ai-doc/IMAGEPROCESS/Tl78sby7g 货币识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/pk3bcxavy"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "published_label": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/sophos",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "published_label": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "published_at": "2026-10-08T16:00:00+00:00",
+      "published_label": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "url": "https://openai.com/index/oracle",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "published_label": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/pollo-ai",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "published_at": "2026-10-08T12:00:00+00:00",
+      "published_label": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "published_label": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building on our commitment to American scientific discovery",
+      "summary": "",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "published_label": "Oct 8, 2026",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": "",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "published_label": "Oct 8, 2026",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "published_label": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "published_label": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "published_label": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/radisson",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "published_label": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "published_label": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/jump-trading",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "published_label": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing computer use with Ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "published_label": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "2026 Usage Policy update",
+      "summary": "",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "published_label": "Oct 6, 2026",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Expanding the Cyber Verification Program",
+      "summary": "",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "published_label": "Oct 6, 2026",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "published_at": "2026-10-02T15:00:00+00:00",
+      "published_label": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "published_label": "Oct 2, 2026",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "summary": "",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "published_label": "Oct 1, 2026",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "microsoft 365 and linkedin leadership update",
+      "summary": "",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "published_label": "2026-10-01",
+      "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "published_label": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "new microsoft data innovations unlock what only your business knows",
+      "summary": "",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "published_label": "2026-09-28",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "introducing the new copilot with home code and autopilot",
+      "summary": "",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "published_label": "2026-09-25",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "published_at": "2026-09-23T18:00:00+00:00",
+      "published_label": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "published_label": "Sep 23, 2026",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "published_at": "2026-09-18T14:00:00+00:00",
+      "published_label": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "published_at": "2026-09-18T13:00:00+00:00",
+      "published_label": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "summary": "",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "published_label": "Sep 18, 2026",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "published_at": "2026-09-17T20:00:00+00:00",
+      "published_label": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing the Life Sciences Verification Program",
+      "summary": "",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "published_label": "Sep 17, 2026",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "what weve learned from microsofts own ai transformation",
+      "summary": "",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "published_label": "2026-09-17",
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "百度智能云",
+      "title": "【公测】端到端语音语言大模型Flex全新上线：让语音交互\"能听懂，能办事\"",
+      "summary": "端到端语音语言大模型 Flex 开启公测，Function Call 加持，让语音交互更智能。",
+      "published_at": "2026-09-16T07:21:39+00:00",
+      "published_label": "2026-09-16 07:21",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3285",
+      "source_tier": "first-party",
+      "content_excerpt": "近日， 百度端到端语音语言大模型Flex 正式开启 公测 。Flex 版聚焦灵活性、任务型场景，在端到端语音交互与自然语音合成的基础上支持 Function Call ，实现语音理解与任务执行的完整闭环，让语音助手从\"能说会道\"升级为\"能查会办\"。点击了解 产品详情 。 亮点解析 双模式 VAD，随说随答 ：支持 自动 VAD （服务端自动检测语音端点、智能断句）的同时，支持 手动 VAD （客户端灵活控制音频发送时机），双模式自由切换 Function Call，实现任务闭环 ：支持通过 Function Call 连接外部工具与业务系统，实现语音理解、决策规划与任务执行一体化闭环，一句话即可完成真实业务动作 音色随心选，打造丰富语音体验 ：支持 70+ 音色随意选择 ，可覆盖多类音色风格，按业务场景自由切换，打造差异化的品牌听觉形象 智能搜索，实时精准应答： 高效处理天气、日历等查询需求，并且伴随 强大的信息检索和指令跟随能力，对于时效性和非时效性问题，均能给出精准实时回答 场景应用 Flex 可广泛应用于智能硬件、AI 助手及各类行业应用，以\"能听、能说、能办事\"的语音交互能力，助力业务智能化升级 智能硬件 ：为智能音箱、车载语音、智能家居等设备提供低时延、可打断的自然语音交互，复杂声学环境下依然流畅稳定 AI 助手 / 语音 Agent ：通过 Function Call实现查询、检索、下单、控制等真实任务的语音触发，打造\"全知全能\"的智能助手 呼叫中心 ：赋能智能客服、外呼营销等场景，实时理解用户意图并联动业务系统完成答复与办理，构建全时响应的服务生态 行业应用 ：按需接入行业知识库与业务工具，灵活适配金融、教育、医疗、政企等场景的定制化语音需求 当前Flex版已正式 公测 ，如需体验，可参考 接口文档 进行体验（WebSocket 实时语音协议，支持服务端 VA"
+    },
+    {
+      "source": "Microsoft",
+      "title": "microsofts commitment for ai in education",
+      "summary": "",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "published_label": "2026-09-16",
+      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "published_label": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "published_label": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "published_at": "2026-09-15T16:00:00+00:00",
+      "published_label": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "published_label": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "published_at": "2026-09-14T19:00:00+00:00",
+      "published_label": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source_tier": "first-party"
+    }
+  ]
+}

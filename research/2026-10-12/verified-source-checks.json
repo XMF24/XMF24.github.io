@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-12T02:50:19.675520+00:00",
+  "count": 8,
+  "results": [
+    {
+      "id": "baidu-image-api-retirement",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3287",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://cloud.baidu.com/support/news?action=detail&id=3287"
+    },
+    {
+      "id": "anthropic-cyber-mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    },
+    {
+      "id": "anthropic-genesis-mission",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.anthropic.com/news/genesis-mission-commitment"
+    },
+    {
+      "id": "openai-false-front-operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "status": 403,
+      "state": "protected",
+      "final_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    },
+    {
+      "id": "openai-gpt-6-intelligent-ui",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "status": 403,
+      "state": "protected",
+      "final_url": "https://openai.com/index/gpt-6-for-everyone/"
+    },
+    {
+      "id": "google-playground",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "status": 0,
+      "state": "review",
+      "final_url": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "id": "google-september-ai-recap",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+    },
+    {
+      "id": "microsoft-fabric-iq",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "status": 206,
+      "state": "ok",
+      "final_url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/"
+    }
+  ]
+}

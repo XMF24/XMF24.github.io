@@ -1,28 +1,163 @@
 window.AI_NEWS_DATA = [
   {
-    "id": "anthropic-frontier-academy",
-    "date": "2026-10-02T23:01:00Z",
-    "dateLabel": "2026-10-02",
-    "source": "Anthropic",
-    "sourceKind": "官方新闻室",
-    "brand": "AN",
-    "category": "商业",
-    "categoryKey": "business",
-    "title": "Anthropic 投入 1 亿美元，计划到 2027 年培养 1 万名前沿部署工程师",
-    "summary": "Anthropic 推出 Claude Frontier Academy，以 1 亿美元投入缓解企业 AI 人才缺口，目标是在 2027 年底前培训 10,000 名前沿部署工程师。",
-    "background": "生成式 AI 正从演示阶段进入企业核心系统，但既懂模型、又能落地业务流程和治理规范的工程人才明显不足。Anthropic 希望把自身部署工程师的方法论产品化、规模化。",
-    "content": "官方信息明确了两项核心数字：1 亿美元承诺和 2027 年底前 10,000 名工程师目标。培训对象聚焦 Frontier Deployed Engineers，强调达到 Anthropic 自身部署标准。",
-    "signal": "模型竞争正在向“交付能力”延伸，人才培训成为头部实验室争夺企业市场的入口。",
+    "id": "baidu-image-api-retirement",
+    "date": "2026-10-09T08:27:32Z",
+    "dateLabel": "2026-10-09",
+    "source": "百度智能云",
+    "sourceKind": "官方公告",
+    "brand": "BD",
+    "category": "中国动态",
+    "categoryKey": "china",
+    "title": "百度智能云将下线 5 项图像接口，并停止 AI 修图新用户接入",
+    "summary": "百度智能云宣布车辆属性识别、车辆外观损伤识别、自定义图像风格、图像去噪和货币识别 5 项接口将于 2026 年 11 月 10 日停止服务，AI 修图从 10 月 9 日起不再支持新用户开通。",
+    "background": "大模型视觉能力正在取代部分单点传统图像 API。平台需要整合资源、降低维护面，同时给存量开发者留出迁移窗口。",
+    "content": "官方公告明确列出了 5 项下线接口和停止服务日期，并建议图像识别类业务评估使用“看图识万物”等替代能力。AI 修图接口停止更新，不再支持新用户接入。",
+    "signal": "企业调用单点视觉模型时，需要把服务生命周期和迁移计划纳入 AI 技术债管理。",
     "verification": {
       "level": "A",
       "label": "官方原文核验",
-      "note": "标题、金额、人数、时间与目标来自 Anthropic 新闻室原始页面及 article:published_time 元数据。"
+      "note": "接口名单、日期与迁移建议均来自百度智能云官方公告正文。"
     },
-    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "url": "https://cloud.baidu.com/support/news?action=detail&id=3287",
     "tags": [
-      "企业服务",
-      "人才",
-      "Claude"
+      "百度智能云",
+      "图像识别",
+      "API下线"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-cyber-mission",
+    "date": "2026-10-08T09:04:16Z",
+    "dateLabel": "2026-10-08",
+    "source": "Anthropic",
+    "sourceKind": "官方新闻室",
+    "brand": "AN",
+    "category": "安全",
+    "categoryKey": "security",
+    "title": "Anthropic 启动 Cyber Mission，重点保护关键基础设施与开源软件",
+    "summary": "Anthropic 推出长期网络安全计划 Cyber Mission，启动关键基础设施防御项目 CIDP，并上线免费的 OSS Scanner，为开源项目提供模型驱动的安全扫描。",
+    "background": "电网、水务、交通等行业依赖难以停机的运营技术。发现漏洞的速度正在提升，但漏洞验证、优先级排序和修复能力仍然不足。",
+    "content": "CIDP 将前沿 Claude 模型、现场工程师和威胁研究带给关键基础设施防御方；OSS Scanner 则提供定期开源安全扫描。创始合作方包括 Accenture、CrowdStrike、Deloitte、Palo Alto Networks、PwC 和 Rockwell Automation 等。",
+    "signal": "前沿模型厂商正把安全能力从模型风控扩展到基础设施、开源供应链和防守方赋能。",
+    "verification": {
+      "level": "A",
+      "label": "官方原文核验",
+      "note": "项目名称、CIDP、OSS Scanner、适用领域与合作方信息均来自 Anthropic 原始文章。"
+    },
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "tags": [
+      "网络安全",
+      "关键基础设施",
+      "开源安全"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-genesis-mission",
+    "date": "2026-10-08T13:00:00Z",
+    "dateLabel": "2026-10-08",
+    "source": "Anthropic",
+    "sourceKind": "官方新闻室",
+    "brand": "AN",
+    "category": "科研",
+    "categoryKey": "research",
+    "title": "Anthropic 三年投入 1.5 亿美元支持 Genesis Mission 科研计划",
+    "summary": "Anthropic 承诺三年投入 1.5 亿美元，将 Claude、Claude Code 和 API 资源提供给美国 Genesis Mission 中超过 15 个机构及数百个科研项目。",
+    "background": "政府科研机构希望利用 AI 加速聚变能、量子计算等长期难题，但模型、工程支持与科研工作流之间仍存在落地门槛。",
+    "content": "资金覆盖 NASA、NIH、NSF 等参与机构；Anthropic 将提供模型与 API 信用额度、科研培训、上手支持，并优先配合聚变能源和量子计算等项目。",
+    "signal": "AI 实验室与公共科研体系的合作正在从试点访问升级为多年、跨机构的算力与工具投入。",
+    "verification": {
+      "level": "A",
+      "label": "官方原文核验",
+      "note": "金额、期限、机构范围、资源类型和重点方向均来自 Anthropic 原始文章。"
+    },
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "tags": [
+      "AI for Science",
+      "Genesis Mission",
+      "科研投入"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-false-front-operations",
+    "date": "2026-10-08T00:00:00Z",
+    "dateLabel": "2026-10-08",
+    "source": "OpenAI",
+    "sourceKind": "官方 RSS",
+    "brand": "OA",
+    "category": "安全",
+    "categoryKey": "security",
+    "title": "OpenAI 阻断两起 AI 驱动的“虚假前线”舆论行动",
+    "summary": "OpenAI 表示已处置两项利用虚假记者身份和智库外壳传播地缘政治叙事的 AI 驱动影响行动。",
+    "background": "生成式 AI 降低了批量内容生产和身份伪装成本，平台需要同时识别账号网络、自动化行为和跨平台叙事协同。",
+    "content": "官方摘要确认行动涉及两起利用 AI 的影响操作，并使用了“false-front journalists”和智库等伪装形式。公开摘要没有披露全部账号规模、归因证据与跨平台影响范围。",
+    "signal": "模型安全治理正在从有害内容审核延伸到影响力行动识别和组织化滥用处置。",
+    "verification": {
+      "level": "A-",
+      "label": "官方原文核验 · 外部复核有限",
+      "note": "事件与处置来自 OpenAI 官方 RSS；具体规模、归因和跨平台影响属于平台自报，未作为确定事实扩展。"
+    },
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "tags": [
+      "影响力行动",
+      "滥用治理",
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-gpt-6-intelligent-ui",
+    "date": "2026-10-07T00:00:00Z",
+    "dateLabel": "2026-10-07",
+    "source": "OpenAI",
+    "sourceKind": "官方 RSS",
+    "brand": "OA",
+    "category": "模型",
+    "categoryKey": "model",
+    "title": "OpenAI 面向所有 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+    "summary": "GPT-6 开始在 ChatGPT 全球上线，并搭配 Intelligent UI，官方强调更快响应、可视化内容和可直接探索的交互式体验。",
+    "background": "模型竞争正从纯文本生成转向多模态结果、工具调用与界面交互。OpenAI 需要把前沿能力下沉到大众产品，而不只是提供给 API 开发者。",
+    "content": "官方 RSS 确认的核心变化包括 GPT-6 全球逐步上线、Intelligent UI、更快响应、视觉内容以及交互式体验。具体地区、套餐和完整能力范围仍以 OpenAI 产品页面为准。",
+    "signal": "AI 产品的差异化开始更多体现在界面如何组织模型能力，以及用户能否直接完成任务。",
+    "verification": {
+      "level": "A",
+      "label": "官方 RSS 核验",
+      "note": "标题、摘要、发布日期和原始链接来自 OpenAI 官方 RSS；原文页面受站点风控保护，未扩展 RSS 之外的功能细节。"
+    },
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "tags": [
+      "GPT-6",
+      "ChatGPT",
+      "Intelligent UI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "google-playground",
+    "date": "2026-10-07T12:00:00Z",
+    "dateLabel": "2026-10-07",
+    "source": "Google",
+    "sourceKind": "官方博客",
+    "brand": "G",
+    "category": "产品",
+    "categoryKey": "product",
+    "title": "Google 推出实验性游戏平台 Playground，用文字提示生成可玩内容",
+    "summary": "Google Playground 允许用户通过简单文字提示创建、游玩和分享自定义游戏，官方定位为无需编程的实验性平台。",
+    "background": "生成式 AI 正从生成文本和图片转向生成可交互体验。把创作门槛降到自然语言，有助于测试用户生成内容与游戏分发的结合方式。",
+    "content": "Google 官方将其描述为实验性游戏平台，核心流程是文字提示生成自定义游戏，并支持创建、游玩与分享。当前定位强调实验性和低门槛，不等于成熟商业游戏引擎。",
+    "signal": "交互式生成有望成为继图像、视频和代码之后，生成式 AI 的下一类高频消费场景。",
+    "verification": {
+      "level": "A",
+      "label": "官方原文核验",
+      "note": "平台定位、无代码特性和创建/游玩/分享能力来自 Google 官方博客及结构化摘要。"
+    },
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "tags": [
+      "Google",
+      "游戏生成",
+      "交互式AI"
     ],
     "featured": false
   },
@@ -35,183 +170,48 @@ window.AI_NEWS_DATA = [
     "brand": "G",
     "category": "模型",
     "categoryKey": "model",
-    "title": "Google 发布 9 月 AI 更新汇总：Gemini 4 Argon 与 3.8 系列集中亮相",
-    "summary": "Google 将 9 月更新归纳为前沿推理、Agent、语音、科学计算与硬件试验五条线，Gemini 4 Argon 和 Gemini 3.8 系列是核心产品进展。",
-    "background": "Google 正把 Gemini 从单一聊天模型扩展到搜索、Workspace、开发者 API、网络安全和科学任务，形成覆盖端到端工作流的模型矩阵。",
-    "content": "官方汇总提到 Gemini 4 Argon 的 100 万 token 输出上限，以及 Gemini 3.8 Flash、Flash Cyber、Live 与 TTS 系列；项目还覆盖 AlphaGenome Atlas、甲烷追踪和 Project Suncatcher 等。",
-    "signal": "模型发布开始按“能力层级 + 场景纵深”组合推进，而不是只比较单个基准分数。",
+    "title": "Google 复盘 9 月 AI 更新：Gemini 4 Argon 与 3.8 系列集中推进",
+    "summary": "Google 的月度汇总覆盖 Gemini 4 Argon、Gemini 3.8 Flash、Flash Cyber、Live 与 TTS，以及搜索、科学计算和太空 ML 硬件试验。",
+    "background": "Google 正把模型矩阵扩展到推理、Agent、语音、网络安全、科学和企业工作流，减少对单一聊天模型的依赖。",
+    "content": "官方汇总提到 Gemini 4 Argon 支持最高 100 万 token 输出，Gemini 3.8 系列面向推理、软件开发、网络安全和语音交互。科学与基础设施方向还包括 AlphaGenome Atlas、全球甲烷追踪和 Project Suncatcher。",
+    "signal": "模型竞争开始按能力分层与应用场景组合推进，单次发布会更像产品矩阵更新。",
     "verification": {
       "level": "A",
       "label": "官方原文核验",
-      "note": "功能组合与发布时间来自 Google 官方博客正文及 article:published_time 元数据。"
+      "note": "模型名称、能力和项目来自 Google 官方 9 月更新汇总正文及发布时间元数据。"
     },
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "tags": [
       "Gemini",
-      "Agent",
-      "科学计算"
+      "Flash Cyber",
+      "科研"
     ],
     "featured": false
   },
   {
-    "id": "openai-distillation-defense",
-    "date": "2026-09-30T10:30:00Z",
-    "dateLabel": "2026-09-30",
-    "source": "OpenAI",
-    "sourceKind": "官方 RSS",
-    "brand": "OA",
-    "category": "安全",
-    "categoryKey": "security",
-    "title": "OpenAI 披露并阻断一次协同模型蒸馏行动",
-    "summary": "OpenAI 表示已阻断一场试图提取受保护模型推理能力的协同蒸馏行动，并正在加强针对对抗性蒸馏的防护。",
-    "background": "模型蒸馏原本是常见的压缩技术，但当外部行为者系统性采集高价值推理轨迹时，它会同时变成知识产权、安全边界和模型滥用问题。",
-    "content": "OpenAI 官方条目将其定义为“协同模型蒸馏行动”，重点不是单一账号滥用，而是有组织的推理提取与防御升级。公开摘要未披露攻击者规模、完整技术细节和具体应对规则。",
-    "signal": "前沿模型的竞争焦点正从训练能力扩展到推理链路保护、异常检测和安全评测。",
-    "verification": {
-      "level": "A",
-      "label": "官方原文核验",
-      "note": "标题、日期和摘要来自 OpenAI 官方 RSS；未在公开摘要中出现的攻击规模与细节不作推断。"
-    },
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "tags": [
-      "模型安全",
-      "蒸馏",
-      "风控"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-gpt-6-1-sol",
-    "date": "2026-09-29T10:00:00Z",
+    "id": "microsoft-fabric-iq",
+    "date": "2026-09-29T06:30:04Z",
     "dateLabel": "2026-09-29",
-    "source": "OpenAI",
-    "sourceKind": "官方 RSS",
-    "brand": "OA",
-    "category": "模型",
-    "categoryKey": "model",
-    "title": "OpenAI 发布 GPT-6.1 Sol，主打近 Astra 能力与显著成本下降",
-    "summary": "GPT-6.1 Sol 面向编程、电脑操作和专业工作，官方称其标准 API 输入与输出 token 价格约为 Astra 的五分之一。",
-    "background": "OpenAI DevDay 2026 同期公布 20 多项更新。市场关注点正从“能力是否最强”转向能力、延迟、Agent 可靠性和单位成本能否同时满足生产环境。",
-    "content": "官方摘要给出的核心信息包括：接近 Astra 的能力定位、覆盖 coding 与 computer use、面向专业工作，以及约为 Astra 五分之一的标准 API token 价格。",
-    "signal": "前沿能力快速下沉到更低价档位，开发者工具与企业 Agent 的成本曲线会继续下移。",
-    "verification": {
-      "level": "A",
-      "label": "官方原文核验",
-      "note": "标题、日期、能力定位和价格表述来自 OpenAI 官方 RSS；具体基准和区域价格以官方页面为准。"
-    },
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "tags": [
-      "GPT-6.1",
-      "Developer",
-      "成本"
-    ],
-    "featured": true
-  },
-  {
-    "id": "microsoft-new-copilot",
-    "date": "2026-09-25T12:03:50Z",
-    "dateLabel": "2026-09-25",
     "source": "Microsoft",
     "sourceKind": "官方博客",
     "brand": "MS",
     "category": "产品",
     "categoryKey": "product",
-    "title": "Microsoft 重构 Copilot：Home、Code 与 Autopilot 三条能力线并行",
-    "summary": "新版 Copilot 把 Chat、Cowork 和 Office 汇入 Home，加入可安全构建与运行方案的 Code，以及持续工作的个人 Agent Autopilot。",
-    "background": "Copilot 需要从分散在各产品中的助手，变成覆盖检索、协作、代码、自动化与成本治理的统一工作入口。Microsoft 同时面对 Agent 可靠性、权限和 AI 花费管理问题。",
-    "content": "Home 整合 Chat、Cowork 与 Office；Code 基于 GitHub Copilot 相关技术，帮助用户构建并安全运行方案；Autopilot 被描述为持久、主动、个性化的 Agent。Home 与 Code 将先进入 Frontier 计划，Autopilot 扩展至私密预览。",
-    "signal": "Copilot 的产品边界从“回答问题”转向“承载工作并持续执行”，企业级 Agent 平台竞争进一步升级。",
+    "title": "Microsoft 推出 Fabric IQ，把受治理业务语义接入 Copilot",
+    "summary": "Fabric IQ 将 Power BI 语义模型、指标和业务定义接入 Microsoft Copilot，已在 Copilot Chat 和 Cowork 正式可用，Code 版本将进入 Frontier 计划。",
+    "background": "企业 AI 的主要风险之一不是模型不会回答，而是答案没有建立在统一、受治理的业务数据与指标口径上。",
+    "content": "Fabric IQ 让 Copilot 的回答基于组织已有的 Power BI 语义模型，并保留现有访问控制和治理。官方同时公布 Fabric Apps、跨工作区可观测性和 Agentic Data Engineering 等数据平台更新。",
+    "signal": "企业 AI 的竞争重点正在从模型接入转向数据语义层、权限治理和可审计的执行环境。",
     "verification": {
       "level": "A",
       "label": "官方原文核验",
-      "note": "标题、功能描述、发布时间和署名来自 Microsoft 官方博客页面及结构化元数据。"
+      "note": "Fabric IQ 的能力、可用范围、Power BI 语义层和发布时间来自 Microsoft 官方博客正文及元数据。"
     },
-    "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
     "tags": [
+      "Microsoft Fabric",
       "Copilot",
-      "Agent",
-      "生产力"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-enzyme-discovery",
-    "date": "2026-09-23T16:06:00Z",
-    "dateLabel": "2026-09-23",
-    "source": "Anthropic",
-    "sourceKind": "官方新闻室",
-    "brand": "AN",
-    "category": "科研",
-    "categoryKey": "research",
-    "title": "Anthropic 生命科学实验室：Claude Agent 发现新型酶系统",
-    "summary": "Anthropic 公布早期科研结果：Claude Agent 发现一种具有 CRISPR 类重复序列、但功能仍未知的酶系统。",
-    "background": "AI for Science 已从论文检索和数据分析，推进到由模型提出假设、组合证据并参与实验设计。生命科学场景需要更强的可复现、可解释和实验室验证要求。",
-    "content": "Anthropic 强调这是新生命科学实验室的早期结果。模型发现的是候选酶系统，研究意义在于展示 Agent 的探索路径，而不是把未经验证的生物学功能直接当成结论。",
-    "signal": "模型发现必须经过湿实验和同行评审后才能成为可靠科学结论，AI 科研新闻需要把“发现候选”和“确认事实”分开。",
-    "verification": {
-      "level": "A-",
-      "label": "官方原文核验 · 待同行评审",
-      "note": "发布信息来自 Anthropic 原始文章；科学发现属于早期结果，最终准确性应以实验复现和同行评审为准。"
-    },
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "tags": [
-      "AI for Science",
-      "Claude Agent",
-      "生命科学"
-    ],
-    "featured": false
-  },
-  {
-    "id": "baidu-flex-speech",
-    "date": "2026-09-16T07:21:39Z",
-    "dateLabel": "2026-09-16",
-    "source": "百度智能云",
-    "sourceKind": "官方公告",
-    "brand": "BD",
-    "category": "中国",
-    "categoryKey": "china",
-    "title": "百度端到端语音语言大模型 Flex 开启公测，语音 Agent 可调用外部工具",
-    "summary": "Flex 将语音理解、自然语音合成与 Function Call 串成闭环，支持自动/手动 VAD 和 70+ 音色，面向智能硬件、AI 助手与呼叫中心。",
-    "background": "语音助手正从“听懂并回答”走向“理解意图、调用系统并完成任务”。低延迟打断、声学稳定性和业务系统接入是落地关键。",
-    "content": "官方公告显示，Flex 支持 Function Call、自动与手动 VAD、70+ 音色、天气与日历等实时查询。官网同时说明 RAG 能力将在近期上线。",
-    "signal": "国内大模型的差异化正在向端到端多模态和任务执行闭环下沉，语音 Agent 是重要落地入口。",
-    "verification": {
-      "level": "A",
-      "label": "官方原文核验",
-      "note": "上线状态、能力列表和发布时间来自百度智能云官方公告及其页面结构化数据。"
-    },
-    "url": "https://cloud.baidu.com/support/news?action=detail&id=3285",
-    "tags": [
-      "语音大模型",
-      "Function Call",
-      "百度智能云"
-    ],
-    "featured": false
-  },
-  {
-    "id": "tencent-hy4-preview",
-    "date": "2026-08-28T08:48:45Z",
-    "dateLabel": "2026-08-28",
-    "source": "腾讯混元",
-    "sourceKind": "官方新闻室",
-    "brand": "TX",
-    "category": "中国",
-    "categoryKey": "china",
-    "title": "腾讯发布并开源 Hy4 preview：770B 总参数、上下文突破 1M",
-    "summary": "Hy4 preview 面向代码、办公与科研场景，总参数 770B、激活参数 49B，并同步接入 WorkBuddy、CodeBuddy、元宝、ima 与 API 平台。",
-    "background": "开源模型竞争正从参数规模转向长上下文、真实生产力任务和产品协同。腾讯希望用 preview 先收集反馈，再推动正式版迭代。",
-    "content": "官方披露 1M 上下文、输入 6 元/百万 token、输出 18 元/百万 token。腾讯内部盲测中，Hy4 preview 在 203 个工程任务上略高于 GLM 5.3 与 Kimi K3。",
-    "signal": "国内开源模型继续押注长上下文与生产力场景，评测证据和企业产品协同将成为下一阶段竞争重点。",
-    "verification": {
-      "level": "A-",
-      "label": "官方原文核验 · 评测为厂商内部数据",
-      "note": "参数、价格、发布时间与产品接入来自腾讯官方新闻室；内部盲测结果属于厂商披露数据，仍需第三方复测。"
-    },
-    "url": "https://www.tencent.com/zh-cn/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "tags": [
-      "Hy4",
-      "开源",
-      "长上下文"
+      "企业数据"
     ],
     "featured": false
   }
