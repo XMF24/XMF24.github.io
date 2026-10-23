@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-23T02:13:00.158901+00:00",
+  "count": 8,
+  "results": [
+    {
+      "id": "anthropic-agent-skills-foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    },
+    {
+      "id": "openai-chatgpt-ads-expansion",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "status": 403,
+      "state": "protected",
+      "final_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "id": "openai-models-google-cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "status": 403,
+      "state": "protected",
+      "final_url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "id": "openai-patch-the-planet",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "status": 403,
+      "state": "protected",
+      "final_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+    },
+    {
+      "id": "microsoft-agentic-insider",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "status": 206,
+      "state": "ok",
+      "final_url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/"
+    },
+    {
+      "id": "baidu-tts-cartoon-voices",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3288",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://cloud.baidu.com/support/news?action=detail&id=3288"
+    },
+    {
+      "id": "anthropic-independent-evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    },
+    {
+      "id": "google-gemini-4-argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    }
+  ]
+}

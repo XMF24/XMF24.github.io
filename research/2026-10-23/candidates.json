@@ -1,0 +1,260 @@
+{
+  "generated_at": "2026-10-23T02:11:51.505846+00:00",
+  "lookback_days": 30,
+  "notice": "Unverified discovery output. Open original sources and create research/verified.json before publishing.",
+  "sources": {
+    "openai": "https://openai.com/news/rss.xml",
+    "google_ai": "https://blog.google/technology/ai/rss/",
+    "anthropic": "https://www.anthropic.com/news",
+    "microsoft": "https://blogs.microsoft.com/post-sitemap3.xml",
+    "baidu": "https://cloud.baidu.com/support/news",
+    "tencent": "https://www.tencent.com/post-sitemap.xml"
+  },
+  "errors": {},
+  "counts": {
+    "openai": 12,
+    "google_ai": 12,
+    "anthropic": 0,
+    "microsoft": 12,
+    "baidu": 10,
+    "tencent": 12
+  },
+  "items": [
+    {
+      "source": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "published_label": "Thu, 22 Oct 2026 19:00:00 GMT",
+      "url": "https://openai.com/index/decisions-api",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "published_label": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "published_label": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "url": "https://openai.com/index/att-legal",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "published_label": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "advancing digital sovereignty with greater control and choice",
+      "summary": "",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "published_label": "2026-10-20",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "百度智能云",
+      "title": "【升级】语音合成 TTS 新增卡通 IP 发音人：猴哥、熊二、懒羊羊，都来了！",
+      "summary": "10 款全新音色，适配儿童教育、AI 陪伴、直播营销等场景，欢迎试听",
+      "published_at": "2026-10-19T09:10:18+00:00",
+      "published_label": "2026-10-19 09:10",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3288",
+      "source_tier": "first-party",
+      "content_excerpt": "近期，百度语音合成 TTS 服务迎来升级，本次共上线 10 款发音人，包含 猴哥、熊二、懒羊羊 等热门「卡通 IP」音色，同时新增 度舒然、度小飒、度启明 等通用场景音色。丰富音色矩阵可覆盖多元业务需求，尤其适配 儿童场景 的 具身智能、AI 陪伴、AI 玩具 等业务场景，为用户借助卡通 IP 音色打造生动有趣的语音交互体验。 【新增发音人】 发音人 声音特色 推荐场景 猴哥 卡通 IP 特色声线 动画/游戏配音、儿童教育、亲子内容 熊二 卡通 IP 特色声线 动画/游戏配音、儿童教育、亲子内容 懒羊羊 卡通 IP 特色声线 动画/游戏配音、儿童教育、亲子内容 度忠祥 播客男声 有声阅读、智能硬件、语音助手 度梓涵 童声 有声阅读、智能硬件、语音助手 度舒然-营销女声 营销女声 营销推广、产品宣传、品牌活动 度小飒-直播女声 直播女声 直播带货、电商讲解、活动主持 度启明-直播男声 直播男声 直播带货、电商讲解、活动主持 度星河-广告男声 广告男声 广告配音、宣传片、品牌宣传 度小清-广告女声 广告女声 广告配音、宣传片、品牌宣传 功能亮点 卡通 IP 声线 ：还原热门卡通角色人物，适合动画、游戏、儿童等娱乐向场景，让语音交互趣味升级。 营销与直播系列 ：全面覆盖品牌宣传、直播带货、广告创意等场景，快速生成专业级语音营销物料。 如何体验 在线试听 ：登录百度智能云语音技术控制台- 体验中心 ，即可试听全部新音色 快速接入 ：登录 百度云控制台 ，开通语音合成服务后即可调用（ 如您已购买臻品&大模型音库，添加对应发音人 per 参数即可直接使用 ）；支持在线 API、HTTP/WebSocket SDK 等多种部署方式，接入便捷、稳定可靠。 百度语音现已推出： 端到端语音语言大模型 、 大模型声音复刻 、 短语音识别标准版 、 短语音识别极速版 、 实时语音识别 、 音频文件"
+    },
+    {
+      "source": "Microsoft",
+      "title": "securing the agentic insider",
+      "summary": "",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "published_label": "2026-10-19",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "published_at": "2026-10-13T16:00:00+00:00",
+      "published_label": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "microsoft to expand azure maia system to multi gigawatt deployments",
+      "summary": "",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "published_label": "2026-10-12",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "百度智能云",
+      "title": "【公告】图像技术部分接口服务停止升级更新及下线通知",
+      "summary": "",
+      "published_at": "2026-10-09T08:27:32+00:00",
+      "published_label": "2026-10-09 08:27",
+      "url": "https://cloud.baidu.com/support/news?action=detail&id=3287",
+      "source_tier": "first-party",
+      "content_excerpt": "尊敬的百度 AI 开放平台用户： 感谢您对图像技术产品服务的关注与支持，为了更高效地整合服务资源，部分接口服务将停止升级更新，并陆续下线。 即日起 车辆属性识别、车辆外观损伤识别、自定义图像风格、图像去噪、货币识别 5个接口服务不再升级维护，并将于 2026年11月10日 停止服务。 同时， AI修图 接口服务停止更新，自 2026年10月9日 起不再支持新用户开通接入。 为避免影响您的线上业务，请提前进行业务迁移。图像识别类产品可以选择使用 看图识万物 产品，看图识万物产品支持多主体图像识别及问答，您可登录 图像识别控制台 进行试用和体验。 感谢您的理解与支持！如需帮助可 提交工单 联系我们。由此给您带来的不便，敬请谅解！ 以下为相关接口文档： AI修图： https://ai.baidu.com/ai-doc/IMAGEPROCESS/3mp3t14aw 车辆属性识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Llw8w6qln 车辆外观损伤识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/olw8w9pjw 自定义图像风格： https://ai.baidu.com/ai-doc/IMAGEPROCESS/al50vf6bq 图像去噪： https://ai.baidu.com/ai-doc/IMAGEPROCESS/Tl78sby7g 货币识别： https://ai.baidu.com/ai-doc/IMAGERECOGNITION/pk3bcxavy"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "published_label": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "published_at": "2026-10-02T15:00:00+00:00",
+      "published_label": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "microsoft 365 and linkedin leadership update",
+      "summary": "",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "published_label": "2026-10-01",
+      "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "published_label": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "new microsoft data innovations unlock what only your business knows",
+      "summary": "",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "published_label": "2026-09-28",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Microsoft",
+      "title": "introducing the new copilot with home code and autopilot",
+      "summary": "",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "published_label": "2026-09-25",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "source_tier": "first-party"
+    },
+    {
+      "source": "Google",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "published_at": "2026-09-23T18:00:00+00:00",
+      "published_label": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source_tier": "first-party"
+    }
+  ]
+}
